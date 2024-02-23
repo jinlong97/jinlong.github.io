@@ -17,42 +17,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am seeking admission to a PhD or a related position in a cell R&D category.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes positive and negative materials and electrolyte for alkali metal batteries. I have published 6 papers [![img](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations)](https://scholar.google.com/citations?user=ChBGPbkAAAAJ&hl) at the top SCI such as AFM, Nano Letter.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp;🎉🎉  I release a modern and responsive academic personal homepage. 
+
+  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- ·  **J. Ke,** M. Li, S. Chen, P. Xiao, A. Hu, C. Xu, P. Gao, J. Liu, Tailored Design Ti4+ Coordination via Coplanar Carboxyl and Hydroxyl Groups Toward High Purity TiO2(B) with Ultrafast Li+ Storage. [Adv. Funct. Mater. 2024, 2315218](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202315218).
+- ·  **Jinlong Ke**, Shi Chen, Peng Gao, Jilei Liu, Breaking the lithiation barrier by consistent kinetic pathways and morphology anisotropy in TiO2(B) realizing 50C ultra-fast charging. (Under review)
+-  K. Luo, Z. Wang, Y. Mo, **J. Ke**, W. Zhou, K. Wang, S. Chen, P. Gao, A. Hu, J. Liu, Potassium Selenocyanate (KSeCN) Additive Enabled Stable Cathode Electrolyte Interphase and Iron Dissolution Inhibition toward Long-Cycling Potassium-Ion Batteries. [Adv. Funct. Mater. 2023, 2311364](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fadfm.202311364).  
+- Zhou, W.; Mo, Y.; Gao, P.; Wang, K.; **Ke, J**.; Liu, Z.; Chen, S.; Liu, J., Decoupling Interfacial Kinetics Realizes 5C Fast Charging of Potassium‐Ion Batteries Using Graphite Anode. [*Adv. Funct. Mater.* **2024**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adfm.202312994).
+- Jin, Y.; Cui, Y.; Xue, J.; **Ke, J**.; Yang, J.; Zeng, Y.; Gong, Y.; Dong, H.; Gao, P., Tailored design the redox chemistry and microstructures of bronze-type VO2(B) via Co/Zn doping towards enhanced sodium storage. [*Materials Today Nano* **2023,** *24*, 100415](https://www.sciencedirect.com/science/article/pii/S2588842023001141).
+- Gong, Y.; Zi, S.; Yang, J.; Mo, Y.; Luo, K.; ***Ke, J***.; Zhou, W.; Gong, Y.; Gao, P., Unraveling the Critical Role of Octahedrally Coordinated Mn in Spinel Manganites toward Enhanced Electrochemical Charge Storage. [*ACS Sustainable Chemistry & Engineering* **2023**](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.3c04660). 
+- Yang, K., Zhou, W., Fu, Q., Xiao, L., Mo, Y., ***Ke, J***., Shen, W., Wang, Z., Tu, J., Chen, S., Gao, P., Liu, J., Optimizing Kinetics for Enhanced Potassium-Ion Storage in Carbon-Based Anodes.  [Adv. Funct. Mater. 2023, 2306190](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202306190). 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* First Class Scholarship for Postgraduate Studies. 
+- *2022.10* Second Class Scholarship for Postgraduate Studies. 
+- *2023.10* Second Class Scholarship for Postgraduate Studies. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - 2023.10 (now)*, Hunan University, College of Materials Science and Engineering, lithium-ion battery direction. 
+- *2015.09 - 2019.06*, Hunan University, College of Materials Science and Engineering, Welding of metal materials direction. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+- 2023(第三届)湖南(长沙)碳基先进材料产业高质量发展论坛
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2023.09*, [Li-FUN TECHNOLOGY](http://lifuntech.com/), China.
